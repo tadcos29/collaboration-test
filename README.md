@@ -1,3 +1,3 @@
 # collaboration-test
 
-Hello, Devarsh and Vasily.
+Hello, Devon and Cassandra.
